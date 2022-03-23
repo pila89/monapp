@@ -1,7 +1,13 @@
-import React from 'react'
+import React from 'react';
+import  Navbar  from '../navbar/Navbar.js';
 
 export default function Admin() {
   return (
-    <div>Admin</div>
+
+    <div>
+      
+
+    </div>
   )
 }
+//<Navbar/>
